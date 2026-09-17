@@ -76,7 +76,7 @@ export const projectsData = [{
         category: "Backend",
         description: "Stateless REST API implementing JWT authentication, secure password hashing, and parameterized database queries.",
         tech: ["Node.js", "Express", "PostgreSQL", "JWT"],
-        githubUrl: "https://github.com/AcChav",
+        githubUrl: "https://github.com/AcChav/auth-microservice",
         liveUrl: null,
     },
     {
