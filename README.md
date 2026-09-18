@@ -4,7 +4,7 @@ A personal portfolio web application showcasing my **full-stack projects, techni
 
 ## Live Demo
 
-**[View Portfolio]([https://carl-lio.vercel.app/])**
+**[View Portfolio](https://carl-lio.vercel.app/)**
 
 ## Tech Stack
 
