@@ -34,8 +34,8 @@ A personal portfolio web application showcasing my **full-stack projects, techni
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/AcChav/<your-portfolio-repo-name>.git
-cd <your-portfolio-repo-name>
+git clone https://github.com/AcChav/carl-dev-portfolio.git
+cd carl-dev-portfolio
 ```
 
 2. Install the dependencies:
