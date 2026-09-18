@@ -10,9 +10,9 @@ export const projectsData = [{
     {
         id: "tronix-solution",
         title: "Tronix Solution",
-        category: "Full-Stack",
-        description: "Comprehensive enterprise web portal engineered as an internship capstone to modernize internal client service workflows.",
-        tech: ["JavaScript", "HTML", "CSS", "Node.js"],
+        category: "Frontend",
+        description: "Frontend enterprise web portal designed as an internship capstone to modernize internal client service workflows.",
+        tech: ["JavaScript", "HTML", "Tailwind"],
         githubUrl: "https://acchav.github.io/Tronix-Seleste/",
         liveUrl: null,
     },
