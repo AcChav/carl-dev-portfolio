@@ -9,6 +9,16 @@ export const projectsData = [
     githubUrl: null,
     liveUrl: "https://erecruitment-9846f.web.app/",
   },
+    {
+    id: "devtrack",
+    title: "DevTrack",
+    category: "Full-Stack",
+    description:
+      "Tracking tool for job applications created for me",
+    tech: ["React", "Node.js", "Express", "PostgreSQL"],
+    githubUrl: null,
+    liveUrl: "https://devtrack-carl-d979.vercel.app",
+  },
   {
     id: "tronix-solution",
     title: "Tronix Solution",
