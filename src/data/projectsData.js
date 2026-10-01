@@ -16,7 +16,7 @@ export const projectsData = [
     description:
       "Tracking tool for job applications created for me",
     tech: ["React", "Node.js", "Express", "PostgreSQL"],
-    githubUrl: null,
+    githubUrl: "https://github.com/AcChav/devtrack",
     liveUrl: "https://devtrack-carl-d979.vercel.app",
   },
   {
@@ -26,8 +26,8 @@ export const projectsData = [
     description:
       "Frontend enterprise web portal designed as an internship capstone to modernize internal client service workflows.",
     tech: ["JavaScript", "HTML", "Tailwind"],
-    githubUrl: "https://acchav.github.io/Tronix-Seleste/",
-    liveUrl: null,
+    githubUrl: "https://github.com/AcChav/Tronix-Seleste",
+    liveUrl: "https://acchav.github.io/Tronix-Seleste/",
   },
   {
     id: "simon-memory-game",
@@ -36,8 +36,8 @@ export const projectsData = [
     description:
       "Classic interactive sequence game built with vanilla state logic, sound effects, and persistent local storage scoring.",
     tech: ["JavaScript", "HTML", "CSS"],
-    githubUrl: "https://acchav.github.io/simon-game/",
-    liveUrl: null,
+    githubUrl: "https://github.com/AcChav/simon-game",
+    liveUrl: "https://acchav.github.io/simon-game/",
   },
   {
     id: "orbite",
@@ -46,8 +46,8 @@ export const projectsData = [
     description:
       "Responsive showcase application focusing on clean semantic layout, mobile-first design, and core DOM manipulation.",
     tech: ["HTML", "CSS", "JavaScript"],
-    githubUrl: "https://acchav.github.io/orbite-web-finance/",
-    liveUrl: null,
+    githubUrl: "https://github.com/AcChav/orbite-web-finance",
+    liveUrl: "https://acchav.github.io/orbite-web-finance/",
   },
   {
     id: "cpp-cli-utilities",
@@ -66,8 +66,8 @@ export const projectsData = [
     description:
       "Interactive time tracking utility that calculates precise elapsed life metrics across days, weeks, and month increments.",
     tech: ["JavaScript", "HTML", "CSS"],
-    githubUrl: "https://acchav.github.io/lifeTimer/",
-    liveUrl: null,
+    githubUrl: "https://github.com/AcChav/lifeTimer",
+    liveUrl: "https://acchav.github.io/lifeTimer/",
   },
   {
     id: "random-number-generator",
@@ -76,8 +76,8 @@ export const projectsData = [
     description:
       "Lightweight algorithmic utility providing pseudo-random bounded value generation with instant interactive UI updates.",
     tech: ["JavaScript", "HTML", "CSS"],
-    githubUrl: "https://acchav.github.io/RandomNum/",
-    liveUrl: null,
+    githubUrl: "https://github.com/AcChav/RandomNum",
+    liveUrl: "https://acchav.github.io/RandomNum/",
   },
   {
     id: "clipart-sorter",
@@ -86,8 +86,8 @@ export const projectsData = [
     description:
       "File organization tool that automatically matches PNG/SVG assets and dynamically generates matching directory structures.",
     tech: ["JavaScript", "Node.js"],
-    githubUrl: null,
-    liveUrl: "https://github.com/AcChav/Clipart-sorter",
+    githubUrl: "https://github.com/AcChav/Clipart-sorter",
+    liveUrl: null,
   },
   {
     id: "auth-query-microservice",
@@ -105,9 +105,9 @@ export const projectsData = [
     category: "Full-Stack",
     description:
       "Sprint management dashboard featuring drag-and-drop column workflows, user assignments, and persistent task state.",
-    tech: ["React", "Express", "Tailwind"],
+    tech: ["React", "Express", "Tailwind", "PostgreSQL"],
     githubUrl: "https://github.com/AcChav",
-    liveUrl: null,
+    liveUrl: "https://kanban-ac.vercel.app",
   },
   {
     id: "designer-portfolio",
